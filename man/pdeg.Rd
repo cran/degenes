@@ -22,9 +22,7 @@ Matrix of normalized expression levels in the second group. Rows represent genes
 Global significance level.
 }
 }
-\details{
-%%  ~~ If necessary, more details than the description above ~~
-}
+
 \value{
 A vector with the gene-specific unadjusted p-values.
 }
@@ -34,15 +32,8 @@ Jung K., Quast K., Gannoun A. and Urfer W. (2006) A renewed approach to the nonp
 \author{
 Klaus Jung
 }
-\note{
-%%  ~~further notes~~
-}
 
-%% ~Make other sections like Warning with \section{Warning }{....} ~
 
-\seealso{
-%% ~~objects to See Also as \code{\link{help}}, ~~~
-}
 \examples{
 X1 = matrix(rnorm(2000, 0, 1), 200, 10)
 X2 = matrix(rnorm(2000, 0, 1), 200, 10)

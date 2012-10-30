@@ -1,13 +1,13 @@
-dbc6aea36613970a9e280dc05732ef5e *DESCRIPTION
+ce13b7d0d9db048c8219ef152107239b *DESCRIPTION
 9fdfeb11f7ddba6f3aab9aaa6b1ac5dd *NAMESPACE
 9f0c60bfa108f0b0d5e4a773bcd63292 *R/deg.R
 728b5141d7267ea82805e1397d276c88 *R/kern.R
 0387da44a94c16c30a915a19f2076a6c *R/pdeg.R
 498d6bbc9ca55b3811d798ea538e34e8 *R/z.b.R
 4ba7f4e24fb0fc1befc8be2f1eac2eee *R/z.s.R
-fd9beb8057a7f590aefc62f5ce259999 *man/deg.Rd
-81ee4e95cb7834673910200b08d6c89b *man/degenes-package.Rd
+44d82bff6521a7e16f0801e587d2ff0e *man/deg.Rd
+a1d760032509eb79f8a306d81346e82f *man/degenes-package.Rd
 b4867d9b708f82ce2961897c757d24b1 *man/kern.Rd
-d0c21deef80557d72188bb24de38d200 *man/pdeg.Rd
+fe96848ae7aa1dacd44f429e498b7834 *man/pdeg.Rd
 6f5aa613868b2cee3907878e2b476bf3 *man/z.b.Rd
 1928ba66c393aa462644af3bb0b7ce69 *man/z.s.Rd
